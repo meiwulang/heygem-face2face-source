@@ -1,5 +1,5 @@
 # heygem-face2face-source
-heygem 合成视频源码
+heygem 合成视频逆向源码
 
 # 模型下载
 `bash download.sh`
@@ -43,3 +43,14 @@ sudo apt install ffmpeg -y
 
 ## 安装python3.8.19
 `conda create -n dpy python=3.8.19`
+
+
+
+# 完整源码加微信获取
+有偿支持100缘，进社区交流群，获取完整源码
+![image](https://github.com/user-attachments/assets/0964d61b-fc3a-4922-8481-1cba270602e8)
+
+![image](https://github.com/user-attachments/assets/a467b065-b2d5-4830-8724-dc1b19fc25dc)
+
+
+
