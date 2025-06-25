@@ -36,8 +36,7 @@ sudo apt install ffmpeg -y
 `python gradio_web.py`
 ---
 
-
-![image](https://github.com/user-attachments/assets/da9fbe55-8e90-4027-958a-6afe74ecf5aa)
+![image](https://github.com/user-attachments/assets/0964d61b-fc3a-4922-8481-1cba270602e8)
 
 
 
