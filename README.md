@@ -39,5 +39,8 @@ sudo apt install ffmpeg -y
 ![image](https://github.com/user-attachments/assets/0964d61b-fc3a-4922-8481-1cba270602e8)
 
 
+硅基不让我卖源码了
+如果需要源码请自行破解，相关逆向技术可以沟通交流
+
 
 
