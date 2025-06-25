@@ -37,11 +37,6 @@ sudo apt install ffmpeg -y
 ---
 
 
-
-# 完整源码加微信获取
-**有偿支持100缘** ，进社区交流群，获取完整源码
-![image](https://github.com/user-attachments/assets/0964d61b-fc3a-4922-8481-1cba270602e8)
-
 ![image](https://github.com/user-attachments/assets/da9fbe55-8e90-4027-958a-6afe74ecf5aa)
 
 
