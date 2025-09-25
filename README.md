@@ -41,8 +41,7 @@ sudo apt install ffmpeg -y
 
 硅基不让我卖源码了
 如果需要源码请自行破解，不会逆向的伙计可以咸鱼平台下单
-【闲鱼】https://m.tb.cn/h.hSg1pGC?tk=Fajw40p7wpj CZ193 「我在闲鱼发布了【开源数字人heygemer逆向教学】」
-#小程序://闲鱼/DltdGeCXEGcyyod
+【闲鱼】https://m.tb.cn/h.SeCkZe4?tk=5CYo4wIEDON HU293 「我在闲鱼发布了【开源数字人heygemer逆向教学】」
 点击链接直接打开
 
 
